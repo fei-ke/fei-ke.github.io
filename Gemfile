@@ -7,11 +7,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 4.3.2"
+# gem "jekyll", "~> 4.3.3"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
+# If you want to use GitHub Pages, remove the "gem 'jekyll'" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # https://pages.github.com/versions/
-gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
 gem "webrick", "~> 1.8"
